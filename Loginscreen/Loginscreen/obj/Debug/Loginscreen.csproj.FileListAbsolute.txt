@@ -1,0 +1,12 @@
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\bin\Debug\Loginscreen.exe.config
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\bin\Debug\Loginscreen.exe
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\bin\Debug\Loginscreen.pdb
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.AssemblyReference.cache
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.FormLogin.resources
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.Properties.Resources.resources
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.GenerateResource.cache
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.CoreCompileInputs.cache
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.exe
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.pdb
+C:\Users\karay\Desktop\c# projeler\Loginscreen\Loginscreen\obj\Debug\Loginscreen.Form1.resources
